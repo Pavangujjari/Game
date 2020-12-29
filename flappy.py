@@ -1,7 +1,10 @@
+#importing these Packages makes us easy in implementing the game
+
 from random import *
 from turtle import *
 from freegames import vector
 
+#its the bird with initilizing it to zero.
 bird = vector(0, 0)
 balls = []
 
